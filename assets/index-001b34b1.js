@@ -1,0 +1,1 @@
+import{bv as e}from"./index-b8a6c59d.js";const r=e("store",{state:()=>({view:!0,message:null,process:{}}),actions:{setMessage(s){this.message=s},setProcess(s){this.process=Object.assign(this.process,s)}}});export{r as u};
